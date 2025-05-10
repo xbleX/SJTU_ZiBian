@@ -14,14 +14,10 @@
 2. 创建一种模板，可以利用AI替换复习内容
 
 复习资料格式为Jupyter Notebook交互式笔记本，包括课本重点和思维导图。
-
-· 课本重点根据老师提示从课文中复制
-
-· 思维导图根据复制的文本，指示AI生成mermaid思维导图，贴到笔记本内
-
-· 本人用VS Code打开ipynb，也可以用Cline插件调动deepseek直接在原文处画mermaid思维导图
-
-· 如果不能正常显示导图，需要在VS Code安装Markdown Preview Mermaid Support插件。
+- 课本重点根据老师提示从课文中复制
+- 思维导图根据复制的文本，指示AI生成mermaid思维导图，贴到笔记本内
+- 本人用VS Code打开ipynb，也可以用Cline插件调动deepseek直接在原文处画mermaid思维导图
+- 如果不能正常显示导图，需要在VS Code安装Markdown Preview Mermaid Support插件。
 
 [致谢]
 
