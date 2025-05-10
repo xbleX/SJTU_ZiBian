@@ -20,6 +20,7 @@
 · 如果不能正常显示导图，需要在VS Code安装Markdown Preview Mermaid Support插件。
 
 [致谢]
+
 选择题参考：自辩复习笔记二——选择题+简答题（上海交通大学）
 https://blog.csdn.net/qq_46562662/article/details/134441820
 
